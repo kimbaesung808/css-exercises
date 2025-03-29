@@ -30,4 +30,5 @@ img {
 
 .items {
   display: flex;
+  gap: 52px;
 }
