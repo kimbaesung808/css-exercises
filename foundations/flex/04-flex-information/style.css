@@ -32,3 +32,7 @@ img {
   display: flex;
   gap: 52px;
 }
+
+.first, .second, .third, .fourth {
+  width: 200px;
+}
