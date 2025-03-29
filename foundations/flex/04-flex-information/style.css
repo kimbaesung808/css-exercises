@@ -36,4 +36,5 @@ img {
 
 .first, .second, .third, .fourth {
   width: 200px;
+  text-align: center;
 }
