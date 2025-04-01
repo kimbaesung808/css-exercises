@@ -3,6 +3,7 @@ body {
   margin: 0;
   min-height: 100vh;
   display: flex;
+  /* flex-wrap: wrap; */
   flex-direction: column;
   justify-content: space-between;
 }
@@ -37,4 +38,13 @@ body {
   border: 1px solid #eee;
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
+}
+
+.cards {
+  display: flex;
+}
+
+.middle {
+  display: flex;
+  flex: 1;
 }
